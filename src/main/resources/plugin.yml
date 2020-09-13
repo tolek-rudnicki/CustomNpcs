@@ -1,0 +1,7 @@
+main: org.example.tolek.customnpcs.Main
+name: CustomNPC
+version: BETA
+author: tolek_pro
+
+commands:
+  createnpc:
